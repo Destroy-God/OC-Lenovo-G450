@@ -3,7 +3,12 @@ OpenCore EFI For Lenovo G450
 # Note
 1.This Laptop is very old, this is just a test, please do not use it for daily use\
 2.Windows won't start because DSDT needs to be modified\
-3.This Laptop Only Supported Legacy BIOS,Use Emulated UEFI Environment.\
+3.Please use your own DSDT and change the EHC inside to EH0.\
+4.Please make SSDT-EC yourself, here is the tutorial:\
+https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html
+\
+5.ssdt1, ssdt2, ssdt3 are useless, you can delete them in the configurator.\
+6.This Laptop Only Supported Legacy BIOS,Use Emulated UEFI Environment.\
 # Information for this computer:
 macOS version: 10.11.6 El Capitan(Last supported version, newer versions may require FakeCPUID, but I don't know how to use it for now)\
 CPU: Intel Pentium T4300 (Penryn)\
