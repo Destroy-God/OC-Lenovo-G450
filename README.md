@@ -18,7 +18,7 @@ Ethernet: Broadcom BCM5906M(Using BCM5722D or BCM5906MEthernet)\
 Wireless: Qualcomm AR9285(Using ToledaARPT,Switched from Broadcom BCM4312 which is not available)\
 Audio: Conexant CX20561(Using AppleALC)\
 # Unusable/Unusual Hardware:
-USB 1.1（Enabling it causes a kernel panic，This may render some mice or keyboards unusable）\
+USB 1.1（Enabling it causes a kernel panic，This may render some mouse or keyboards unusable）\
 Trackpad(Can't use gestures)\
 Backlight Control(Can't be adjusted in settings, but you can use shortcut keys)\
 # Screenshot
