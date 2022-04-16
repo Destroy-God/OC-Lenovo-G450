@@ -20,6 +20,6 @@ Audio: Conexant CX20561(Using AppleALC)\
 # Unusable/Unusual Hardware:
 USB 1.1（Enabling it causes a kernel panic，This may render some mouse or keyboards unusable）\
 Trackpad(Can't use gestures)\
-Backlight Control(Can't be adjusted in settings, but you can use shortcut keys)\
+Backlight Control(Can't be adjusted in settings, but you can use shortcut keys)
 # Screenshot
 Forgot. :)
